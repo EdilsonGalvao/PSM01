@@ -30,6 +30,7 @@ Basically, this is a great exam to understand a Scrum overview.
 
 Quiz
 -------------
-1. [Mikhail Lapshin](http://mlapshin.com/index.php/psm-quiz/) - 80 questions 
+1. [Mikhail Lapshin](http://mlapshin.com/index.php/psm-quiz/) - 80 Questions 
 2. [Scrum Org Open Quiz](https://www.scrum.org/open-assessments/scrum-open) - 30 Questions
+3. [The Scrum Master Quiz](https://www.thescrummaster.co.uk/professional-scrum-master-i-psm-i-practice-assessment/) - 20 Questions
 ----------
